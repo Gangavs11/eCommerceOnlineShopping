@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-27T05:46:53Z" name="TN Test automtion regression suite" finished-at="2021-06-27T05:47:15Z" duration-ms="21624">
+    <groups>
+    </groups>
+    <test started-at="2021-06-27T05:46:53Z" name="LoginPage Test_FF_57" finished-at="2021-06-27T05:47:14Z" duration-ms="20161">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@18d910b3]" started-at="2021-06-27T05:46:53Z" name="setUp" finished-at="2021-06-27T05:47:02Z" duration-ms="8572" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[57]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@18d910b3]" started-at="2021-06-27T05:47:02Z" name="verifyLoginPageTitleTest" finished-at="2021-06-27T05:47:02Z" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method signature="verifyForgotPwdLinkTest()[pri:2, instance:com.qa.hubspot.tests.LoginPageTest@18d910b3]" started-at="2021-06-27T05:47:02Z" name="verifyForgotPwdLinkTest" finished-at="2021-06-27T05:47:04Z" duration-ms="1583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPwdLinkTest -->
+        <test-method signature="loginTest()[pri:3, instance:com.qa.hubspot.tests.LoginPageTest@18d910b3]" started-at="2021-06-27T05:47:04Z" name="loginTest" finished-at="2021-06-27T05:47:13Z" duration-ms="8779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@18d910b3]" started-at="2021-06-27T05:47:13Z" name="tearDown" finished-at="2021-06-27T05:47:14Z" duration-ms="1122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </test> <!-- LoginPage Test_FF_57 -->
+    <test started-at="2021-06-27T05:46:53Z" name="LoginPage Test_FF_89" finished-at="2021-06-27T05:47:14Z" duration-ms="20225">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@4649d70a]" started-at="2021-06-27T05:46:53Z" name="setUp" finished-at="2021-06-27T05:47:02Z" duration-ms="8321" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[89]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@4649d70a]" started-at="2021-06-27T05:47:02Z" name="verifyLoginPageTitleTest" finished-at="2021-06-27T05:47:02Z" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method signature="verifyForgotPwdLinkTest()[pri:2, instance:com.qa.hubspot.tests.LoginPageTest@4649d70a]" started-at="2021-06-27T05:47:02Z" name="verifyForgotPwdLinkTest" finished-at="2021-06-27T05:47:04Z" duration-ms="1713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPwdLinkTest -->
+        <test-method signature="loginTest()[pri:3, instance:com.qa.hubspot.tests.LoginPageTest@4649d70a]" started-at="2021-06-27T05:47:04Z" name="loginTest" finished-at="2021-06-27T05:47:13Z" duration-ms="8865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@4649d70a]" started-at="2021-06-27T05:47:13Z" name="tearDown" finished-at="2021-06-27T05:47:14Z" duration-ms="1186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </test> <!-- LoginPage Test_FF_89 -->
+    <test started-at="2021-06-27T05:46:53Z" name="LoginPage Test_FF_83" finished-at="2021-06-27T05:47:15Z" duration-ms="21624">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@cb7fa71]" started-at="2021-06-27T05:46:53Z" name="setUp" finished-at="2021-06-27T05:47:03Z" duration-ms="9491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[83]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@cb7fa71]" started-at="2021-06-27T05:47:03Z" name="verifyLoginPageTitleTest" finished-at="2021-06-27T05:47:03Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method signature="verifyForgotPwdLinkTest()[pri:2, instance:com.qa.hubspot.tests.LoginPageTest@cb7fa71]" started-at="2021-06-27T05:47:03Z" name="verifyForgotPwdLinkTest" finished-at="2021-06-27T05:47:05Z" duration-ms="1672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPwdLinkTest -->
+        <test-method signature="loginTest()[pri:3, instance:com.qa.hubspot.tests.LoginPageTest@cb7fa71]" started-at="2021-06-27T05:47:05Z" name="loginTest" finished-at="2021-06-27T05:47:14Z" duration-ms="9032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@cb7fa71]" started-at="2021-06-27T05:47:14Z" name="tearDown" finished-at="2021-06-27T05:47:15Z" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </test> <!-- LoginPage Test_FF_83 -->
+  </suite> <!-- TN Test automtion regression suite -->
+</testng-results>
